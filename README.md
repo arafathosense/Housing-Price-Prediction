@@ -67,3 +67,12 @@ MAE score: 0.2837869675577879
 
 The neural network trained on the standardized signals gave the best model with an R2 score of 82.4. The models trained on the first two principal components gave a poor result, even if they accounted for ~96% of the data variance.
 
+## 👤 Author
+
+**HOSEN ARAFAT**  
+
+Software Engineer, China 
+
+GitHub: https://github.com/arafathosense
+
+Researcher: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Image Processing
