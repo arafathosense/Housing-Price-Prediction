@@ -71,8 +71,8 @@ The neural network trained on the standardized signals gave the best model with 
 
 **HOSEN ARAFAT**  
 
-Software Engineer, China 
+**Software Engineer, China**  
 
-GitHub: https://github.com/arafathosense
+**GitHub:** https://github.com/arafathosense
 
-Researcher: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Image Processing
+**Researcher: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Image Processing**
